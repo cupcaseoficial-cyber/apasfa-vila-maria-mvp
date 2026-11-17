@@ -183,3 +183,8 @@ git log --oneline --decorate -5
 ```
 
 Confira no GitHub se aparecem `backend/`, `frontend/`, `README.md`, `.gitignore`, `plan.md` e `TODO.md`, e se não há `.env`, senhas, tokens ou dados reais. Se o professor pedir uma URL exata, copie a URL do navegador do repositório, não a URL do comando local.
+
+## Entrega acadêmica
+
+Projeto desenvolvido para a disciplina Experiência Prática de Projeto de Software.
+
